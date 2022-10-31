@@ -1,0 +1,11 @@
+{
+  "overrides": [
+    {
+      "files": [".prettierrc", "src/**/*.json"],
+      "options": {"parser": "json5"},
+    },
+  ],
+  "bracketSpacing": false,
+  "proseWrap": "always",
+  "quoteProps": "preserve",
+}
